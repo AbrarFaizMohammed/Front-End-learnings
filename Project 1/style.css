@@ -1,0 +1,70 @@
+h1,p,h2 {
+    text-align: center;
+}
+h1,h2{
+    font-family: Impact, sans-serif;
+}
+h1{
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+h2{
+    font-size: 30px;
+}
+.established{
+    font-style: italic;
+}
+body{
+   background-image: url(images/image.jpg);
+   background-repeat:repeat;
+   background-size: cover;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   padding: 20px;
+}
+.menu{
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 550px;
+    background-image: url(images/menu-background.jpg);
+}
+.flavour,.dessert{
+    text-align: left;
+    width: 75%;
+}
+.price{
+    text-align: right;
+    width: 25%;
+}
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size:18px;
+}
+hr{
+    height: 2px;
+    background-color: black;
+    border-color: black;
+}
+.bottem-line{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.rights{
+    text-align: left;
+    margin-bottom: 0px;
+}
+.quote{
+    font-family: Gabriola;
+    font-size: 20px;
+}
+.coffeeEmoji,.dessertsEmoji{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
